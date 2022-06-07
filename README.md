@@ -13,7 +13,9 @@ competitors of the selected nationality.
 
 The CsvExporter class to export your data to a CSV file that represents the event log. Attached
 The ModelGenerator class allows you to generate a process model in jpg format from the exported data. Following
-The figure serves as an example and represents a valid event log and process model by Lewis Hamilton. The process model, which will be created by entering the nationality of Russian, can be seen here: https://drive.google.com/drive/u/1/folders/1pTx_lJr7uZ8vjUl8ap1HtrtWAM7R1Ngp.
+The figure serves as an example and represents a valid event log and process model by Lewis Hamilton. The process model, which will be created by entering the nationality of Russian.
+
+<img src="photo/russianModel.jpeg"/>
 
 
 Data from https://ergast.com/mrd/
