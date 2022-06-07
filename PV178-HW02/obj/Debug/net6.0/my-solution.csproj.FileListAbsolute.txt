@@ -1,0 +1,15 @@
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/bin/Debug/net6.0/my-solution
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/bin/Debug/net6.0/my-solution.deps.json
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/bin/Debug/net6.0/my-solution.runtimeconfig.json
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/bin/Debug/net6.0/my-solution.dll
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/bin/Debug/net6.0/my-solution.pdb
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.AssemblyInfo.cs
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.dll
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/refint/my-solution.dll
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.pdb
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/my-solution.genruntimeconfig.cache
+/Users/Ivan/Downloads/PV178-HW02 3/my-solution/obj/Debug/net6.0/ref/my-solution.dll

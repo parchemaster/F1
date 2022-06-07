@@ -1,0 +1,49 @@
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/bin/Debug/net6.0/PV178-HW02
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/bin/Debug/net6.0/PV178-HW02.deps.json
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/bin/Debug/net6.0/PV178-HW02.runtimeconfig.json
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/bin/Debug/net6.0/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/bin/Debug/net6.0/PV178-HW02.pdb
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.AssemblyInfo.cs
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/refint/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.pdb
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/PV178-HW02.genruntimeconfig.cache
+/Users/Ivan/Downloads/PV178-HW02 3/PV178-HW02/obj/Debug/net6.0/ref/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.deps.json
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.runtimeconfig.json
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.pdb
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.AssemblyInfo.cs
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/refint/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.pdb
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.genruntimeconfig.cache
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/ref/PV178-HW02.dll
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/bin/Debug/net6.0/FormulaAPI.dll
+/Users/Ivan/Downloads/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.CopyComplete
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.deps.json
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.runtimeconfig.json
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.dll
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/bin/Debug/net6.0/PV178-HW02.pdb
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/bin/Debug/net6.0/FormulaAPI.dll
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.AssemblyInfo.cs
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.csproj.CopyComplete
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.dll
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/refint/PV178-HW02.dll
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.pdb
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/PV178-HW02.genruntimeconfig.cache
+/Users/Ivan/Downloads/Ivan_Sharai_PV178/PV178-HW02/PV178-HW02/obj/Debug/net6.0/ref/PV178-HW02.dll
